@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/LENOVO/AppData/Local/Temp/4938efa9-5cde-4d3a-89cd-8300988a0a15_sqlite-src-3500200.zip.a15/sqlite-src-3500200/src",
+      "program": "c:/Users/LENOVO/AppData/Local/Temp/4938efa9-5cde-4d3a-89cd-8300988a0a15_sqlite-src-3500200.zip.a15/sqlite-src-3500200/src/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
